@@ -1,0 +1,119 @@
+.pip_cache/
+*.pyc
+*.egg-info/
+*.swp
+*.box
+*.db
+*.db-journal
+eb.db.*
+*.rdb
+APNS/eventboardnode/dump.rdb
+*.bak*
+*.*~
+*.egg-info
+docs/sphinx/build/
+scripts/do/dist
+.vagrant
+*.pid
+/logs/
+CACHE/
+packer/packer_cache/
+packer/eventboard.sublime-project
+packer/eventboard.sublime-workspace
+packer/do.crds
+packer/aws.crds
+apps/.coverage
+apps/nosetests.xml
+/src/
+
+# Editor/IDE files
+.dir-locals.el
+agenda.org
+*.vim
+*~
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+.codeintel
+.project
+.pydevproject
+*.sublime-project
+*.sublime-workspace
+
+# Static Shtuff
+/static
+/globalstatic/CACHE/
+/static/
+/media/
+
+# Mac Files
+.DS_Store
+.Spotlight-V100
+.Trashes
+plist
+.apdisk
+
+# Design Files
+*.psd
+*.ai
+*.zip
+da_2015-*
+
+# Local Settings
+credentials.py
+local_settings.py
+atlassian-ide-plugin.xml
+
+# Database Dumps
+dumps/
+
+# Mine
+mine/
+
+# frontend stuff
+node_modules
+bower_components
+ember_app/
+
+# emacs
+TAGS
+GPATH
+GRTAGS
+GTAGS
+.projectile
+.agignore
+
+#ipython notebook
+*.ipynb
+apps/.coverage
+testresults.txt
+.octoebrc
+ipynb/
+.ropeproject
+docs/_build
+docs/docs2/build
+
+# xunit output from nose
+nosetests.xml
+
+# Swagger docs
+api.yaml
+docs/api-swagger/api.yaml
+docs/api-swagger/api.json
+docs/api-swagger/api/paths/index.yaml
+npm-debug.log
+api.yaml
+*.tar.gz
+docs/api-swagger/yarn-error.log
+docs/api-swagger/yarn.lock
+
+# redis data
+/data
