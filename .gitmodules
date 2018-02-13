@@ -1,0 +1,3 @@
+[submodule "teem-google-service-account-relay/relay-with-go"]
+	path = teem-google-service-account-relay/relay-with-go
+	url = https://github.com/undertakingyou/relay-with-go.git

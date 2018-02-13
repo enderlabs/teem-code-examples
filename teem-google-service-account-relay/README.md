@@ -24,3 +24,7 @@ The code examples here are provided to be examples in how to accomplish that,
 which you can deploy yourself. You do not have to use these specific examples
 to accomplish the requirement outlined above, but this could be a great
 starting point to help you.
+
+When cloning this project, please make sure you clone the submodules used in
+some examples. To do so add `--recurse-submodules` to your git clone command
+such as `git clone --recurse-submodules https://github.com/enderlabs/teem-code-examples`
